@@ -25,7 +25,7 @@ This project focuses on a modern, luxury UI design with interactive features and
 
 ## Project Structure
 
-Essence-Website-project/
+perfume-website-project/
 - index.html
 - style.css
 - script.js
